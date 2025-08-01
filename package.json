@@ -1,0 +1,33 @@
+{
+	"homepage": "https://github.com/obrymec/contracts_manager#readme",
+	"author": "Obrymec - obrymecsprinces@gmail.com",
+	"description": "Contracts management.",
+	"name": "contracts-manager",
+	"main": "./server.js",
+	"version": "1.0.3",
+	"private": "false",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/obrymec/contracts_manager/issues"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.15"
+	},
+	"repository": {
+		"url": "https://github.com/obrymec/contracts_manager.git",
+		"type": "git"
+	},
+	"scripts": {
+		"dev": "nodemon ./server.js",
+		"start": "node ./server.js"
+	},
+	"dependencies": {
+		"password-validator": "^5.2.1",
+		"email-validator": "^2.0.4",
+		"body-parser": "^1.19.1",
+		"underscore": "^1.13.2",
+		"nodemailer": "^6.7.2",
+		"express": "^4.17.2",
+		"mongodb": "^4.3.1"
+	}
+}
