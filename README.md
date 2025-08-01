@@ -1,0 +1,1 @@
+O site VitalSync foi criado para melhorar a organização de  gestão de contratos, oferecendo aos administradores uma plataforma online com cadastro, gerenciamento e alertas de vencimentos de contratos. O acesso é feito via-web, mediante cadastro no sistema, permitindo aos trabalhadores a acompanhar atualizações e informações de contratos de forma prática e eficiente.
